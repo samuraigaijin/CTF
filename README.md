@@ -72,21 +72,6 @@ Environment:
 
 ---
 
-## 🧭 Methodology
-
-Most web challenges follow this flow:
-
-1. Reconnaissance  
-2. Port scanning (`nmap`)  
-3. Directory fuzzing (`gobuster`, `ffuf`)  
-4. Technology fingerprinting  
-5. Vulnerability scanning (`nuclei`)  
-6. Exploit development or adaptation  
-7. Reverse shell (when applicable)  
-8. Post-exploitation & privilege escalation  
-
----
-
 ## 🚀 Career Focus
 
 Currently working towards becoming a **Pentest Junior**, with strong interest in:
